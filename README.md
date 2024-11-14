@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,idea,gmail" />
+    <img src="https://skillicons.dev/icons?i=java,idea" />
   </a>
 </p>
