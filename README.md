@@ -1,6 +1,6 @@
 # Isa Ismailzade
-- I am a beginner Java Developer
-- 18 y.o.
+- Java Developer
+- 19 y.o.
 - contacts: [Telegram](https://t.me/isa_ismailzade) || Mail -> isaismailzade.work@gmail.com
 
 <!---
