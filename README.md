@@ -1,7 +1,7 @@
 # Isa Ismailzade
 - Java Developer
 - 19 y.o.
-- contacts: telegram: [getTelegram();](https://t.me/isa_ismailzade) & mail: [getMail()](isaismailzade.work@gmail.com)
+- contacts: telegram: [getTelegram();](https://t.me/isa_ismailzade) & mail: [getMail()](mailto:isaismailzade.work@gmail.com)
 
 <!---
 IsaIsmailzade/IsaIsmailzade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
