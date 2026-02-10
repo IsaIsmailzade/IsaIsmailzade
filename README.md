@@ -1,6 +1,6 @@
 # Isa Ismailzade
 - Java Developer
-- 19 y.o.
+- 20 y.o.
 - Contacts: <br> telegram: [getTelegram();](https://t.me/isa_ismailzade) & mail: [getMail()](mailto:isaismailzade.work@gmail.com)
 
 <!---
