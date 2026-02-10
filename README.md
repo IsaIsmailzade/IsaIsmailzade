@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,kubernetes,postman,prometheus,hibernate,gradle,maven,postgres,mysql,mongodb,redis,jquery,jenkins,git,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,kubernetes,postman,prometheus,hibernate,gradle,maven,postgres,mysql,mongodb,redis,jenkins,git,idea" />
   </a>
 </p>
